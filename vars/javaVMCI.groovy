@@ -1,3 +1,3 @@
-def call(map configMap){
-    echo "this is will run if application is java and vm"
+def call(Map configMap){
+    echo "This is will run if application is Java and VM"
 }
